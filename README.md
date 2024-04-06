@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `npm run server`
-This project is setting port 8000 at package.json at script. If you have any trouble from port, come to package.json and change another port to run server.
+This project is setting port 8000 in package.json at script. If you have any trouble from port, come to package.json and change another port to run server.
 
 ### `npm run build`
 
